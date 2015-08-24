@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>One</title>
+    
+    <% include include/basic.ejs %>    
+ 
+    <script>            
+      
+      function restart() {
+        document.location.reload()
+      }
+      
+      function output(msg) {
+        document.body.innerHTML += msg
+        document.body.innerHTML += '<br>'
+      }
+     
+      document.addEventListener('DOMContentLoaded', function() {    
+        Sk.configure({output: output});
+        loadUserScript('/py/ch-1.py')
+      })  
+    </script>
+    
+  </head>
+  <body style="font-family:courier; font-color:#444444">
+    <div>
+      <button id="reload" style="margin-bottom:5px" onclick="restart()">Reload</button>        
+    </div>
+  </body>
+</html>

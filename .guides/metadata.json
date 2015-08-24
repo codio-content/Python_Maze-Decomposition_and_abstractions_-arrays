@@ -1,0 +1,123 @@
+{
+ "sections": [
+  {
+   "id": "944a307-5fce-7f59-2899-6ac756ada9b6",
+   "title": "Lists",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lists-944a.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "18a7a6d-6942-680a-8d41-948d897263da",
+   "title": "Overview",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Overview-18a7.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "6c78a6cc-917f-6c75-c04d-ccecca4fc052",
+   "title": "Lists in code",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/py/py-1.py",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/py-1",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Arrays-in-code-6c78.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "20c93e6e-f049-468a-4d67-7faa6c577a81",
+   "title": "Challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/py/ch-1.py",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/ch-1",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-20c9.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "dcd96eac-d2aa-1f7e-3619-1d68219260d3",
+   "title": "Challenge Reverse",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/py/ch-2.py",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/ch-2",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-Reverse-dcd9.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "2d8518b7-b528-cdfc-9c1e-818ff065d0a",
+   "title": "That's all folks",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/That-s-all-folks-2d85.md",
+   "chapter": false,
+   "reset": []
+  }
+ ],
+ "theme": "light",
+ "scripts": [
+  "https://code.jquery.com/jquery-2.1.4.min.js"
+ ],
+ "lexikonTopic": ""
+}

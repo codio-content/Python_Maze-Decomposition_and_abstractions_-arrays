@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>One</title>
+    
+    <% include include/game.ejs %>    
+ 
+    <script>  
+      
+      function output(msg) {
+        sweetAlert('', msg)
+      }      
+
+      function userScriptLoaded() {
+        gameStarted (initGame)
+        createRandomMaze(12, 8)
+        setMessageFontScale(0.75);        
+      }       
+      
+        // Load the user blockly script
+        loadUserScript('/js/ch-3.js')
+    </script>
+    
+  </head>
+  <body>
+    <div id="game"></div>
+  </body>
+</html>
