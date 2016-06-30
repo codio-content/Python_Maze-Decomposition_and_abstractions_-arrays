@@ -1,0 +1,50 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-3250540465",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "python /home/codio/workspace/.guides/tests/ch-1.py",
+   "instructions": "We want you to do 2 things here.\n\n1. Create an empty list called `numbers`\n2. Use a loop to populate the array with 5 elements. The value for each element should be the index multiplied by 10.\n3. Create another loop that outputs all of the array element values.\n\nRemember a generic for loop looks like this\n\n```Python\nfor i in range(min, max):\n  # do something with i\n```\nIn this challenge, rather than reading, you are doing an assignment just as you did with variables.\n\nWhen you are ready to run your code press the 'reload' button on the left or the 'Check It!!' button below to have your solution assessed.\n",
+   "name": "Array challenge"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3736421609",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "python /home/codio/workspace/.guides/tests/ch-2.py",
+   "instructions": "The code on the left has already created an array of strings. Your job is to reverse the order of the `strings` list, store it in the `reversed` list and output the new order as shown below. \n\n```javascript\nMary\nHad\nA\nLittle\nLamb\n```\n\n**Hints**\n- You need to start looping at 4 and end looping at -1\n- You need to decrease your step, not increase it\n\nYou will need to use the complete for loop definition\n\n```python\nfor [Variable] in range([Start], [End], [Step]):\n```\n\nWhen you are ready to run your code press the 'reload' button on the left or the 'Check It!!' button below to have your solution assessed.",
+   "name": "Array challenge reverse"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-4668404",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "node /home/codio/workspace/.guides/tests/ch-3.js",
+   "instructions": "\nWe have provided you with a starting function on the left to code you solution in. \n\n1. Create an array called `result` like this `result = []`\n1. Copy the tile types (`tiles[x][y].type`) from the maze's 3rd row into `result`.\n1. Output `result` using the `output()` function.\n1. The objective is to end up with output looking something like `wall, floor, floor..` etc reflecting the 3rd row of your maze\n",
+   "name": "2 dimensional arrays"
+  }
+ }
+]
