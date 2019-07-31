@@ -1,0 +1,43 @@
+{
+ "name": "Python_Maze-Decomposition_and_abstractions_-arrays",
+ "children": [
+  {
+   "title": "Lists",
+   "id": "944a307-5fce-7f59-2899-6ac756ada9b6",
+   "pageId": "944a307-5fce-7f59-2899-6ac756ada9b6",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Overview",
+     "id": "18a7a6d-6942-680a-8d41-948d897263da",
+     "pageId": "18a7a6d-6942-680a-8d41-948d897263da",
+     "type": "page"
+    },
+    {
+     "title": "Lists in code",
+     "id": "6c78a6cc-917f-6c75-c04d-ccecca4fc052",
+     "pageId": "6c78a6cc-917f-6c75-c04d-ccecca4fc052",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "20c93e6e-f049-468a-4d67-7faa6c577a81",
+     "pageId": "20c93e6e-f049-468a-4d67-7faa6c577a81",
+     "type": "page"
+    },
+    {
+     "title": "Challenge Reverse",
+     "id": "dcd96eac-d2aa-1f7e-3619-1d68219260d3",
+     "pageId": "dcd96eac-d2aa-1f7e-3619-1d68219260d3",
+     "type": "page"
+    },
+    {
+     "title": "That's all folks",
+     "id": "2d8518b7-b528-cdfc-9c1e-818ff065d0a",
+     "pageId": "2d8518b7-b528-cdfc-9c1e-818ff065d0a",
+     "type": "page"
+    }
+   ]
+  }
+ ]
+}
